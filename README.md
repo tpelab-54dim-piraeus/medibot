@@ -42,9 +42,10 @@
  - FOSSBOT robot				
  - DFRduino UNO R3 (Arduino Uno R3 Compatible)		
  - Gravity IO Expansion Shield for Arduino V7.1		
- - Battery Holder 6xAA - Plug 5.5/2.1mm			2
+ - Battery Holder 6xAA - Plug 5.5/2.1mm
  - Gravity Αισθητήρας Καρδιακών Παλμών & Οξύμετρο - MAX30102	
  - DFPlayer - A Mini MP3 Player				
  - Speaker Enclosed Mono - 1W				
  - Gravity Digital RGB LED Module				
- - Gravity LCD Display 16x2 RGB I2C Module V2.0		
+ - Gravity LCD Display 16x2 RGB I2C Module V2.0
+ - Καλώδια, μπαταρίες, υλικά μακέτας 
